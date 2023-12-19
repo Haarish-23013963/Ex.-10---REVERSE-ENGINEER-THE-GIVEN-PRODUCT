@@ -32,7 +32,6 @@
 
 ## Input:
 ![image](/input.png)
-
 ### Output:
 ![image](/output.png)
 
