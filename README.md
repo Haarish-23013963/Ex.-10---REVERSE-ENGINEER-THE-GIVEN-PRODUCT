@@ -31,12 +31,13 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
+![image](/input.png)
 
 ### Output:
+![image](/output.png)
 
-
-### Name:
-### Register Number:
+### Name: Haarish v
+### Register Number: 23013963
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
